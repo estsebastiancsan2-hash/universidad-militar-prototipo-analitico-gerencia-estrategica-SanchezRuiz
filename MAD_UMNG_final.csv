@@ -1,0 +1,385 @@
+﻿id_estudiante,fecha_respuesta,programa,semestre,modalidad_estudio,trabaja,horas_trabajo_semana,horas_sueno_promedio,pausas_activas_semana,horas_recreacion_semana,frecuencia_autocuidado,burnout_score
+EST001,2026-07-03,contaduria publica,9,presencial,no,0,7.0,5,3.4,3,44
+EST002,2026-07-02,administracion de empresas,9,presencial,si,22,6.0,3,2.0,1,41
+EST003,2026-07-03,economia,9,presencial,no,0,7.0,4,6.6,1,44
+EST004,2026-07-02,ingenieria industrial,9,presencial,no,0,6.3,2,2.5,1,45
+EST005,2026-07-02,derecho,9,presencial,si,22,6.1,4,4.7,5,58
+EST006,2026-06-29,contaduria publica,9,presencial,si,13,6.8,4,4.9,0,62
+EST007,2026-07-02,derecho,9,presencial,no,0,6.7,4,6.9,1,36
+EST008,2026-07-03,contaduria publica,9,virtual,no,0,6.8,1,3.9,4,31
+EST009,2026-06-30,ingenieria industrial,9,presencial,si,36,6.8,2,3.0,0,65
+EST010,2026-06-29,ingenieria civil,9,presencial,no,0,7.3,3,3.4,6,42
+EST011,2026-06-28,ingenieria industrial,9,presencial,no,0,6.8,2,5.6,2,47
+EST012,2026-06-30,ingenieria de sistemas,9,presencial,si,29,6.4,2,7.9,4,63
+EST013,2026-07-04,ingenieria electronica,9,presencial,no,0,7.6,3,5.8,6,47
+EST014,2026-06-28,ingenieria de sistemas,9,presencial,si,33,5.7,5,4.6,6,54
+EST015,2026-07-01,ingenieria ambiental,9,virtual,no,0,7.7,5,3.3,1,57
+EST016,2026-07-03,derecho,9,presencial,si,40,7.2,2,2.8,4,52
+EST017,2026-06-29,economia,9,presencial,no,0,6.2,1,2.8,3,43
+EST018,2026-07-01,ingenieria electronica,9,virtual,si,28,6.2,2,3.6,6,58
+EST019,2026-06-30,contaduria publica,9,presencial,si,37,5.6,2,3.9,5,49
+EST020,2026-06-27,economia,9,virtual,si,26,5.9,3,1.1,2,49
+EST021,2026-06-30,ingenieria civil,9,presencial,si,36,6.6,3,4.2,4,60
+EST022,2026-07-04,contaduria publica,9,presencial,si,13,5.7,3,2.9,5,49
+EST023,2026-06-29,ingenieria electronica,9,virtual,si,18,4.6,3,2.8,5,74
+EST024,2026-06-28,ingenieria electronica,9,virtual,no,0,6.1,3,6.6,4,32
+EST025,2026-07-01,ingenieria mecatronica,9,presencial,no,0,6.7,2,3.1,4,36
+EST026,2026-07-01,ingenieria de sistemas,9,presencial,no,0,8.2,3,4.6,9,44
+EST027,2026-07-03,ingenieria ambiental,9,presencial,si,27,7.6,5,6.7,3,52
+EST028,2026-07-01,ingenieria ambiental,9,presencial,no,0,6.6,2,4.4,2,42
+EST029,2026-07-03,ingenieria industrial,9,virtual,no,0,5.8,6,4.1,4,33
+EST030,2026-07-02,contaduria publica,9,virtual,si,16,4.8,3,2.4,1,53
+EST031,2026-06-29,ingenieria electronica,9,presencial,si,21,5.7,4,3.6,6,51
+EST032,2026-07-03,ingenieria de sistemas,9,presencial,si,28,4.8,3,1.9,3,61
+EST033,2026-06-27,ingenieria industrial,9,presencial,si,35,6.6,6,1.9,1,60
+EST034,2026-06-29,ingenieria mecatronica,9,virtual,no,0,7.4,2,7.3,3,42
+EST035,2026-07-04,ingenieria industrial,9,presencial,si,17,7.1,1,1.9,5,60
+EST036,2026-06-29,ingenieria electronica,9,virtual,si,11,5.8,0,1.7,4,57
+EST037,2026-07-03,economia,9,presencial,si,29,6.4,2,5.2,4,53
+EST038,2026-07-03,economia,9,presencial,no,0,7.9,4,4.0,2,39
+EST039,2026-07-01,ingenieria industrial,9,presencial,no,0,6.8,4,3.1,4,39
+EST040,2026-07-01,derecho,9,presencial,si,12,6.0,3,5.0,1,59
+EST041,2026-06-30,administracion de empresas,9,virtual,no,0,8.0,5,3.3,4,52
+EST042,2026-07-02,ingenieria electronica,9,presencial,si,21,7.1,2,2.9,0,50
+EST043,2026-07-02,ingenieria mecatronica,9,presencial,si,16,5.6,1,5.1,1,64
+EST044,2026-06-29,ingenieria ambiental,9,presencial,no,0,7.5,5,0.5,0,39
+EST045,2026-06-27,ingenieria civil,9,presencial,si,25,6.0,1,3.6,6,49
+EST046,2026-06-29,contaduria publica,9,virtual,si,29,8.1,2,7.2,1,52
+EST047,2026-07-02,ingenieria civil,9,presencial,no,0,8.0,5,4.9,5,39
+EST048,2026-06-29,ingenieria de sistemas,9,presencial,si,34,7.4,3,3.0,4,52
+EST049,2026-06-28,derecho,9,presencial,no,0,7.4,1,5.3,1,39
+EST050,2026-07-01,ingenieria mecatronica,9,presencial,no,0,6.9,4,3.9,1,52
+EST051,2026-06-29,ingenieria de sistemas,9,presencial,si,33,5.3,2,4.9,2,68
+EST052,2026-06-30,ingenieria electronica,9,presencial,no,0,7.5,2,4.4,2,52
+EST053,2026-06-29,ingenieria ambiental,9,presencial,no,0,7.1,4,5.4,3,31
+EST054,2026-06-29,ingenieria de sistemas,9,virtual,no,0,7.7,3,5.7,7,42
+EST055,2026-06-30,ingenieria de sistemas,9,presencial,no,0,6.9,3,2.3,5,23
+EST056,2026-06-28,economia,9,virtual,si,25,6.1,3,1.5,2,43
+EST057,2026-07-03,derecho,9,presencial,si,37,6.7,1,4.6,3,47
+EST058,2026-06-28,ingenieria industrial,9,virtual,no,0,8.1,1,7.3,2,23
+EST059,2026-06-29,contaduria publica,9,virtual,si,31,6.7,5,4.7,0,52
+EST060,2026-06-30,administracion de empresas,9,presencial,si,15,8.1,2,5.3,6,54
+EST061,2026-07-02,ingenieria civil,9,presencial,no,0,6.3,4,6.1,3,43
+EST062,2026-07-02,administracion de empresas,9,virtual,no,0,8.5,3,3.2,5,31
+EST063,2026-07-01,administracion de empresas,9,presencial,no,0,7.8,2,5.8,1,34
+EST064,2026-06-28,derecho,9,virtual,si,35,5.7,4,5.3,0,46
+EST065,2026-06-27,ingenieria mecatronica,9,presencial,no,0,6.4,8,3.8,3,40
+EST066,2026-07-02,ingenieria mecatronica,9,presencial,no,0,7.0,4,5.3,1,44
+EST067,2026-06-29,ingenieria civil,9,presencial,si,24,5.7,6,4.6,2,57
+EST068,2026-06-29,ingenieria industrial,9,presencial,si,23,7.1,2,4.3,3,41
+EST069,2026-06-30,administracion de empresas,9,presencial,si,23,6.4,1,3.4,1,66
+EST070,2026-07-01,ingenieria ambiental,9,virtual,no,0,7.6,3,0.6,3,60
+EST071,2026-07-01,administracion de empresas,9,virtual,no,0,7.3,5,4.1,2,52
+EST072,2026-07-01,ingenieria civil,9,presencial,no,0,7.2,4,2.7,1,36
+EST073,2026-06-27,economia,9,presencial,no,0,8.5,4,5.3,3,47
+EST074,2026-07-04,economia,9,virtual,si,10,6.3,2,8.5,2,51
+EST075,2026-07-03,ingenieria de sistemas,9,presencial,no,0,7.1,3,6.2,7,29
+EST076,2026-07-03,administracion de empresas,9,presencial,no,0,6.8,4,6.0,0,34
+EST077,2026-07-03,administracion de empresas,9,presencial,no,0,7.7,5,4.5,3,39
+EST078,2026-07-01,contaduria publica,9,presencial,no,0,7.9,6,5.9,3,26
+EST079,2026-07-03,economia,9,virtual,no,0,6.7,4,4.0,1,39
+EST080,2026-06-29,administracion de empresas,9,presencial,no,0,7.0,3,5.2,2,47
+EST081,2026-06-30,ingenieria de sistemas,9,presencial,no,0,6.8,5,4.9,2,50
+EST082,2026-06-28,ingenieria electronica,9,presencial,si,24,5.3,3,8.6,2,65
+EST083,2026-06-30,economia,9,virtual,no,0,8.4,2,5.4,2,41
+EST084,2026-07-03,derecho,9,virtual,no,0,7.9,5,2.9,5,57
+EST085,2026-06-28,ingenieria industrial,9,presencial,si,37,5.8,1,3.9,1,64
+EST086,2026-06-30,derecho,9,presencial,si,24,6.5,5,5.0,0,53
+EST087,2026-06-29,economia,9,virtual,si,32,7.2,2,4.1,3,62
+EST088,2026-06-29,ingenieria electronica,9,presencial,si,23,5.7,4,3.2,1,67
+EST089,2026-06-28,ingenieria electronica,9,presencial,no,0,6.8,3,5.4,3,47
+EST090,2026-07-03,ingenieria civil,9,presencial,si,21,6.2,2,7.6,6,48
+EST091,2026-06-29,ingenieria mecatronica,9,virtual,si,27,6.2,5,4.1,5,50
+EST092,2026-07-01,derecho,9,presencial,si,24,6.7,1,3.7,5,55
+EST093,2026-07-01,ingenieria civil,9,virtual,no,0,6.4,1,4.5,3,53
+EST094,2026-07-01,administracion de empresas,9,virtual,si,34,5.6,4,4.9,2,59
+EST095,2026-06-30,economia,9,virtual,si,33,7.3,7,0.0,4,42
+EST096,2026-07-03,ingenieria mecatronica,9,presencial,no,0,6.8,2,4.3,1,41
+EST097,2026-07-03,administracion de empresas,9,virtual,si,20,5.8,4,2.0,1,59
+EST098,2026-06-28,economia,9,virtual,si,39,7.8,1,3.4,2,60
+EST099,2026-07-01,ingenieria civil,9,virtual,si,14,7.6,3,5.0,3,57
+EST100,2026-07-02,administracion de empresas,9,presencial,no,0,7.6,3,3.3,4,34
+EST101,2026-06-29,ingenieria ambiental,9,presencial,si,34,7.3,3,5.2,2,57
+EST102,2026-07-04,ingenieria civil,9,virtual,si,23,6.1,1,0.5,1,50
+EST103,2026-06-27,administracion de empresas,9,presencial,no,0,8.5,5,5.0,2,39
+EST104,2026-06-29,ingenieria de sistemas,9,presencial,no,0,6.4,1,5.2,3,47
+EST105,2026-06-28,contaduria publica,9,presencial,no,0,7.3,1,6.4,2,44
+EST106,2026-06-30,ingenieria ambiental,9,presencial,no,0,6.9,4,1.4,5,47
+EST107,2026-07-03,ingenieria civil,9,presencial,no,0,8.5,1,2.2,2,31
+EST108,2026-06-28,derecho,9,presencial,si,22,7.5,6,2.3,2,57
+EST109,2026-06-29,ingenieria civil,9,presencial,si,19,4.5,6,6.6,4,70
+EST110,2026-07-04,derecho,9,presencial,si,26,5.7,6,4.4,2,51
+EST111,2026-06-27,ingenieria civil,9,virtual,si,30,5.9,1,0.0,4,72
+EST112,2026-07-02,ingenieria industrial,9,presencial,no,0,6.6,2,3.6,1,36
+EST113,2026-07-03,ingenieria de sistemas,9,presencial,si,31,6.4,4,0.0,0,66
+EST114,2026-07-02,ingenieria civil,9,presencial,si,32,7.6,2,1.7,4,55
+EST115,2026-06-30,ingenieria ambiental,9,presencial,no,0,8.5,3,3.6,2,44
+EST116,2026-07-03,ingenieria de sistemas,9,presencial,no,0,7.5,2,0.0,1,36
+EST117,2026-06-30,ingenieria industrial,9,virtual,no,0,7.2,2,7.9,6,39
+EST118,2026-06-30,administracion de empresas,9,presencial,no,0,7.1,4,4.7,3,39
+EST119,2026-06-28,ingenieria ambiental,9,presencial,no,0,7.3,1,3.2,4,52
+EST120,2026-06-30,derecho,9,virtual,si,40,6.3,3,3.8,3,40
+EST121,2026-07-04,ingenieria electronica,9,presencial,si,10,5.8,6,2.9,7,46
+EST122,2026-07-02,ingenieria civil,9,presencial,no,0,5.9,2,2.7,3,46
+EST123,2026-06-28,ingenieria industrial,9,virtual,si,37,4.7,2,5.2,1,59
+EST124,2026-06-29,ingenieria electronica,9,presencial,no,0,7.3,5,7.1,4,36
+EST125,2026-07-04,ingenieria civil,9,presencial,si,31,7.1,1,7.5,5,47
+EST126,2026-07-04,ingenieria civil,9,virtual,no,0,6.7,4,5.6,2,39
+EST127,2026-06-29,ingenieria ambiental,9,presencial,no,0,5.8,3,6.4,2,64
+EST128,2026-06-29,administracion de empresas,9,presencial,si,20,5.9,2,5.0,2,49
+EST129,2026-06-30,contaduria publica,9,presencial,si,25,6.2,6,4.4,3,58
+EST130,2026-07-03,ingenieria mecatronica,9,presencial,si,35,5.9,0,5.5,3,72
+EST131,2026-06-29,ingenieria mecatronica,9,virtual,no,0,8.2,4,6.4,2,42
+EST132,2026-07-02,economia,9,presencial,si,23,6.6,2,5.6,6,49
+EST133,2026-07-01,contaduria publica,9,virtual,si,37,6.1,3,3.5,3,71
+EST134,2026-06-29,derecho,9,presencial,no,0,7.5,9,3.7,2,39
+EST135,2026-06-30,ingenieria de sistemas,9,presencial,si,32,6.3,3,2.8,3,56
+EST136,2026-06-29,ingenieria civil,9,virtual,si,11,5.3,4,7.0,3,68
+EST137,2026-06-29,derecho,9,presencial,no,0,7.5,2,1.2,3,39
+EST138,2026-06-28,ingenieria ambiental,9,presencial,no,0,7.3,1,4.0,2,52
+EST139,2026-06-27,ingenieria mecatronica,9,presencial,no,0,5.8,3,1.1,2,46
+EST140,2026-06-28,contaduria publica,9,presencial,no,0,8.5,5,1.7,6,44
+EST141,2026-06-28,contaduria publica,9,presencial,si,31,6.7,3,4.6,2,65
+EST142,2026-06-28,ingenieria de sistemas,9,virtual,si,24,5.2,4,5.0,6,47
+EST143,2026-06-30,ingenieria de sistemas,9,virtual,no,0,6.8,3,3.6,0,36
+EST144,2026-06-27,ingenieria electronica,9,presencial,no,0,7.1,3,5.2,1,60
+EST145,2026-06-29,administracion de empresas,9,presencial,si,10,6.1,1,2.6,2,56
+EST146,2026-06-29,administracion de empresas,9,presencial,si,28,7.2,2,2.2,3,55
+EST147,2026-07-01,ingenieria ambiental,9,presencial,no,0,7.4,2,2.0,1,44
+EST148,2026-06-30,economia,9,presencial,no,0,8.3,2,6.0,6,34
+EST149,2026-07-04,contaduria publica,9,virtual,no,0,6.6,2,2.6,4,52
+EST150,2026-06-28,derecho,9,virtual,no,0,8.3,2,5.4,1,44
+EST151,2026-07-01,ingenieria electronica,9,presencial,si,14,5.6,4,6.8,1,62
+EST152,2026-07-03,ingenieria de sistemas,9,presencial,no,0,6.1,1,5.3,2,27
+EST153,2026-06-28,administracion de empresas,9,presencial,no,0,6.5,6,5.2,2,48
+EST154,2026-07-02,economia,9,virtual,no,0,7.3,4,3.2,3,39
+EST155,2026-06-27,contaduria publica,9,presencial,no,0,7.2,1,6.2,2,31
+EST156,2026-07-02,ingenieria electronica,9,virtual,no,0,6.9,2,5.4,3,39
+EST157,2026-06-27,contaduria publica,9,presencial,no,0,5.6,3,3.8,0,49
+EST158,2026-07-01,ingenieria industrial,9,presencial,si,30,7.6,3,6.9,1,70
+EST159,2026-06-27,ingenieria civil,9,virtual,si,12,6.8,2,1.6,7,39
+EST160,2026-07-02,contaduria publica,9,presencial,si,18,5.7,4,1.3,4,59
+EST161,2026-06-29,ingenieria mecatronica,9,presencial,si,18,6.5,4,8.2,2,58
+EST162,2026-07-02,administracion de empresas,9,virtual,no,0,5.9,1,8.2,2,49
+EST163,2026-07-03,ingenieria de sistemas,9,presencial,si,16,6.5,2,2.6,5,61
+EST164,2026-06-29,administracion de empresas,9,virtual,no,0,6.3,3,3.3,2,24
+EST165,2026-07-01,ingenieria de sistemas,9,virtual,si,14,4.8,1,5.2,4,46
+EST166,2026-07-03,ingenieria ambiental,9,presencial,no,0,6.3,3,3.7,3,58
+EST167,2026-06-30,ingenieria de sistemas,9,virtual,si,25,7.4,6,0.0,3,60
+EST168,2026-06-28,ingenieria ambiental,9,presencial,si,38,5.9,5,2.9,7,49
+EST169,2026-07-01,ingenieria ambiental,9,presencial,si,19,5.1,3,3.5,3,45
+EST170,2026-06-28,ingenieria de sistemas,9,presencial,si,13,7.4,3,1.6,2,44
+EST171,2026-07-04,contaduria publica,9,presencial,no,0,7.3,1,5.9,1,36
+EST172,2026-06-30,administracion de empresas,9,presencial,si,15,7.2,4,5.3,4,55
+EST173,2026-07-03,ingenieria de sistemas,9,virtual,no,0,7.1,3,3.7,3,41
+EST174,2026-06-27,ingenieria electronica,9,presencial,si,35,6.8,2,2.3,2,52
+EST175,2026-07-04,ingenieria mecatronica,9,presencial,si,19,6.5,3,2.0,1,48
+EST176,2026-06-28,economia,9,virtual,si,12,6.9,3,5.2,1,55
+EST177,2026-06-27,ingenieria industrial,9,presencial,si,38,6.2,2,4.4,3,50
+EST178,2026-06-27,ingenieria mecatronica,9,presencial,si,14,5.5,5,1.4,2,50
+EST179,2026-06-27,ingenieria civil,9,presencial,no,0,7.8,1,6.3,2,31
+EST180,2026-07-01,derecho,9,virtual,si,12,7.7,1,3.5,3,39
+EST181,2026-06-29,contaduria publica,9,presencial,si,39,5.4,4,5.7,3,63
+EST182,2026-06-30,economia,9,presencial,no,0,8.0,0,4.4,4,39
+EST183,2026-07-02,administracion de empresas,9,presencial,si,15,6.4,7,4.0,5,66
+EST184,2026-07-03,ingenieria mecatronica,9,virtual,si,20,6.4,1,2.9,2,66
+EST185,2026-07-03,contaduria publica,9,presencial,no,0,7.1,4,4.3,5,39
+EST186,2026-07-01,ingenieria civil,9,presencial,no,0,7.8,4,5.2,3,31
+EST187,2026-07-03,ingenieria ambiental,9,presencial,no,0,6.1,5,4.1,1,48
+EST188,2026-07-01,ingenieria mecatronica,9,virtual,si,31,7.1,0,7.1,2,62
+EST189,2026-06-27,derecho,9,presencial,si,31,5.1,0,2.7,3,42
+EST190,2026-07-02,ingenieria civil,9,presencial,no,0,7.5,4,4.8,6,42
+EST191,2026-07-01,economia,9,virtual,si,35,6.8,4,5.2,1,65
+EST192,2026-07-01,ingenieria civil,9,presencial,no,0,6.0,5,3.8,4,46
+EST193,2026-06-30,ingenieria electronica,9,presencial,no,0,6.3,3,2.3,3,35
+EST194,2026-06-30,ingenieria industrial,9,presencial,no,0,6.4,3,5.3,4,24
+EST195,2026-06-29,ingenieria de sistemas,9,virtual,no,0,6.3,2,6.3,3,32
+EST196,2026-06-29,contaduria publica,9,presencial,si,29,6.3,3,1.9,3,71
+EST197,2026-06-30,ingenieria de sistemas,9,presencial,si,17,4.8,6,6.0,5,59
+EST198,2026-06-29,ingenieria mecatronica,9,virtual,si,38,7.2,3,6.9,2,52
+EST199,2026-06-30,ingenieria industrial,9,presencial,si,24,5.1,2,2.4,0,68
+EST200,2026-07-02,ingenieria electronica,9,presencial,no,0,6.6,1,6.5,4,39
+EST201,2026-07-01,contaduria publica,9,virtual,no,0,6.8,0,4.2,4,39
+EST202,2026-07-04,ingenieria de sistemas,9,presencial,no,0,7.4,1,6.7,4,42
+EST203,2026-06-29,derecho,9,presencial,no,0,6.9,3,5.8,4,34
+EST204,2026-06-29,administracion de empresas,9,presencial,si,37,6.4,4,3.2,2,66
+EST205,2026-07-03,ingenieria mecatronica,9,presencial,si,27,5.9,3,4.1,2,54
+EST206,2026-07-01,ingenieria industrial,9,presencial,no,0,7.1,5,0.0,3,44
+EST207,2026-07-03,ingenieria mecatronica,9,virtual,no,0,7.9,5,4.7,1,44
+EST208,2026-06-27,economia,9,virtual,no,0,6.0,1,3.2,2,43
+EST209,2026-06-29,ingenieria electronica,9,presencial,si,33,7.0,1,4.3,2,57
+EST210,2026-06-30,ingenieria ambiental,9,presencial,no,0,6.5,1,7.3,1,43
+EST211,2026-07-02,contaduria publica,9,virtual,no,0,8.5,2,7.3,0,47
+EST212,2026-07-03,administracion de empresas,9,presencial,si,16,6.5,4,5.8,3,61
+EST213,2026-07-02,economia,9,virtual,no,0,6.0,4,4.4,1,36
+EST214,2026-07-02,ingenieria de sistemas,9,presencial,si,27,6.6,4,4.1,2,60
+EST215,2026-06-30,administracion de empresas,9,presencial,no,0,6.7,9,4.8,0,44
+EST216,2026-06-29,ingenieria de sistemas,9,presencial,si,29,5.5,3,6.7,3,50
+EST217,2026-06-30,administracion de empresas,9,virtual,si,12,6.9,6,3.2,5,47
+EST218,2026-06-27,administracion de empresas,9,virtual,no,0,6.4,3,5.8,2,40
+EST219,2026-06-29,derecho,9,presencial,no,0,7.4,1,8.2,5,39
+EST220,2026-06-29,ingenieria mecatronica,9,presencial,no,0,8.5,4,6.5,6,39
+EST221,2026-07-02,ingenieria de sistemas,9,virtual,si,36,4.5,1,3.5,1,52
+EST222,2026-07-03,ingenieria industrial,9,virtual,no,0,6.6,3,4.3,3,44
+EST223,2026-06-29,derecho,9,virtual,no,0,7.0,3,2.4,7,57
+EST224,2026-06-30,contaduria publica,9,virtual,no,0,7.7,4,6.6,3,36
+EST225,2026-07-02,ingenieria civil,9,presencial,no,0,7.8,6,1.6,2,34
+EST226,2026-07-02,ingenieria electronica,9,presencial,no,0,7.6,0,5.5,1,39
+EST227,2026-06-30,contaduria publica,9,presencial,si,11,6.3,8,1.7,2,45
+EST228,2026-07-02,administracion de empresas,9,presencial,no,0,6.0,2,5.9,2,49
+EST229,2026-06-30,ingenieria electronica,9,presencial,no,0,7.6,5,2.1,5,44
+EST230,2026-06-30,administracion de empresas,9,presencial,no,0,7.4,8,3.5,2,18
+EST231,2026-06-27,ingenieria ambiental,9,virtual,no,0,6.1,4,4.8,4,29
+EST232,2026-06-28,administracion de empresas,9,presencial,no,0,6.5,1,6.6,1,32
+EST233,2026-07-03,administracion de empresas,9,presencial,no,0,7.1,1,5.4,3,52
+EST234,2026-07-03,contaduria publica,9,presencial,no,0,7.1,1,8.8,1,47
+EST235,2026-07-03,ingenieria civil,9,presencial,si,35,6.8,4,4.9,2,55
+EST236,2026-06-27,ingenieria ambiental,9,presencial,si,40,6.1,2,2.9,3,58
+EST237,2026-06-30,ingenieria civil,9,presencial,si,24,6.0,0,4.1,1,59
+EST238,2026-06-29,ingenieria ambiental,9,virtual,si,29,6.9,6,6.3,1,52
+EST239,2026-06-27,economia,9,presencial,si,40,6.1,3,6.6,2,45
+EST240,2026-06-29,administracion de empresas,9,presencial,no,0,6.6,5,5.0,4,39
+EST241,2026-07-02,ingenieria electronica,9,virtual,no,0,6.2,7,10.7,4,58
+EST242,2026-06-28,ingenieria civil,9,presencial,no,0,5.4,5,9.7,4,60
+EST243,2026-06-29,ingenieria industrial,9,virtual,no,0,8.5,4,4.2,1,42
+EST244,2026-06-28,ingenieria industrial,9,virtual,no,0,6.0,4,1.4,2,49
+EST245,2026-06-30,derecho,9,presencial,no,0,6.9,7,8.5,3,49
+EST246,2026-06-28,ingenieria ambiental,9,virtual,si,29,5.9,3,5.0,1,57
+EST247,2026-07-01,ingenieria de sistemas,9,virtual,no,0,5.8,1,4.4,3,59
+EST248,2026-07-04,ingenieria civil,9,virtual,no,0,8.1,2,5.6,4,29
+EST249,2026-07-02,ingenieria industrial,9,presencial,no,0,6.9,2,4.7,4,36
+EST250,2026-07-03,ingenieria de sistemas,9,presencial,si,16,6.8,2,1.8,3,52
+EST251,2026-07-02,ingenieria mecatronica,9,presencial,no,0,6.5,3,5.7,7,53
+EST252,2026-07-02,ingenieria industrial,9,presencial,si,18,5.8,4,4.5,2,67
+EST253,2026-07-03,ingenieria electronica,9,presencial,no,0,5.6,7,4.3,4,41
+EST254,2026-07-01,administracion de empresas,9,virtual,no,0,6.5,4,0.5,1,48
+EST255,2026-07-01,ingenieria de sistemas,9,presencial,si,23,6.1,4,3.3,2,66
+EST256,2026-06-30,ingenieria electronica,9,presencial,si,10,6.2,3,0.8,6,71
+EST257,2026-07-01,administracion de empresas,9,virtual,no,0,7.2,3,5.1,2,39
+EST258,2026-07-04,ingenieria ambiental,9,presencial,si,16,5.2,4,6.0,4,50
+EST259,2026-07-03,ingenieria mecatronica,9,presencial,no,0,8.0,2,5.6,3,39
+EST260,2026-07-03,administracion de empresas,9,presencial,no,0,7.4,2,6.8,5,47
+EST261,2026-06-30,administracion de empresas,9,presencial,no,0,8.2,2,1.5,5,60
+EST262,2026-07-02,contaduria publica,9,presencial,no,0,6.1,4,2.3,1,48
+EST263,2026-06-30,ingenieria electronica,9,presencial,no,0,6.4,6,0.7,3,35
+EST264,2026-07-03,ingenieria de sistemas,9,presencial,si,17,5.7,3,7.3,2,54
+EST265,2026-06-27,ingenieria ambiental,9,presencial,no,0,7.6,2,2.4,6,55
+EST266,2026-07-02,ingenieria electronica,9,virtual,no,0,7.2,2,11.6,3,52
+EST267,2026-06-27,ingenieria electronica,9,presencial,si,12,6.6,5,2.7,4,39
+EST268,2026-06-29,ingenieria de sistemas,9,presencial,si,39,6.9,4,8.3,5,49
+EST269,2026-06-29,ingenieria industrial,9,virtual,si,30,6.7,4,5.8,3,62
+EST270,2026-07-01,ingenieria electronica,9,presencial,si,34,6.6,1,4.3,1,52
+EST271,2026-06-29,economia,9,presencial,no,0,6.1,1,0.0,3,51
+EST272,2026-07-01,contaduria publica,9,virtual,no,0,5.4,3,5.5,4,34
+EST273,2026-06-27,ingenieria ambiental,9,presencial,no,0,6.5,3,7.8,4,58
+EST274,2026-06-28,administracion de empresas,9,virtual,no,0,6.5,3,4.4,5,48
+EST275,2026-06-28,ingenieria ambiental,9,presencial,si,32,5.6,4,3.8,3,59
+EST276,2026-06-28,economia,9,virtual,no,0,6.4,2,6.2,3,27
+EST277,2026-07-03,ingenieria ambiental,9,virtual,no,0,7.9,3,4.1,0,39
+EST278,2026-07-01,ingenieria ambiental,9,presencial,no,0,6.7,5,2.7,5,31
+EST279,2026-07-03,ingenieria civil,9,virtual,no,0,7.4,5,2.8,1,39
+EST280,2026-06-30,ingenieria ambiental,9,presencial,no,0,6.2,2,6.1,2,42
+EST281,2026-07-03,contaduria publica,9,virtual,si,32,7.8,5,2.7,5,42
+EST282,2026-07-03,administracion de empresas,9,presencial,no,0,7.4,5,2.2,3,39
+EST283,2026-07-02,ingenieria mecatronica,9,presencial,si,38,6.5,3,0.7,2,58
+EST284,2026-07-03,ingenieria electronica,9,presencial,si,31,6.1,2,5.1,4,48
+EST285,2026-06-29,ingenieria civil,9,virtual,no,0,6.8,1,4.1,3,47
+EST286,2026-07-02,ingenieria ambiental,9,presencial,si,36,7.7,3,5.1,4,52
+EST287,2026-07-01,ingenieria civil,9,virtual,no,0,4.5,5,1.7,3,60
+EST288,2026-06-28,ingenieria ambiental,9,presencial,si,12,6.5,6,2.2,2,56
+EST289,2026-06-28,contaduria publica,9,virtual,si,32,7.2,1,2.3,1,55
+EST290,2026-06-27,contaduria publica,9,presencial,no,0,7.4,0,2.5,2,34
+EST291,2026-07-01,ingenieria civil,9,virtual,no,0,6.6,4,5.4,6,31
+EST292,2026-06-28,ingenieria ambiental,9,presencial,no,0,7.1,2,2.2,3,31
+EST293,2026-06-30,ingenieria industrial,9,presencial,no,0,6.2,5,3.3,1,45
+EST294,2026-07-01,ingenieria civil,9,presencial,si,16,4.5,2,5.4,5,62
+EST295,2026-06-29,ingenieria mecatronica,9,virtual,no,0,7.7,0,4.0,5,44
+EST296,2026-06-30,administracion de empresas,9,virtual,no,0,6.4,1,2.7,3,35
+EST297,2026-06-30,ingenieria civil,9,virtual,si,36,4.9,6,4.2,1,69
+EST298,2026-06-29,ingenieria mecatronica,9,virtual,si,12,6.8,3,2.4,3,39
+EST299,2026-06-27,contaduria publica,9,presencial,si,38,7.2,3,9.5,3,50
+EST300,2026-07-02,ingenieria industrial,9,presencial,si,23,5.2,1,2.1,2,42
+EST301,2026-07-02,ingenieria mecatronica,9,presencial,no,0,6.5,2,6.7,2,53
+EST302,2026-06-29,ingenieria ambiental,9,presencial,no,0,8.1,1,6.5,6,47
+EST303,2026-06-30,ingenieria electronica,9,virtual,no,0,8.1,1,7.0,6,42
+EST304,2026-07-02,ingenieria electronica,9,virtual,no,0,7.1,3,0.1,4,42
+EST305,2026-07-04,ingenieria de sistemas,9,presencial,no,0,6.1,3,7.0,3,32
+EST306,2026-07-02,ingenieria civil,9,presencial,no,0,7.5,5,6.7,4,28
+EST307,2026-06-29,ingenieria ambiental,9,virtual,si,21,5.2,2,5.0,1,73
+EST308,2026-07-02,ingenieria civil,9,virtual,no,0,8.5,4,3.0,2,36
+EST309,2026-06-28,contaduria publica,9,presencial,si,40,6.2,4,1.6,4,40
+EST310,2026-07-01,ingenieria de sistemas,9,presencial,no,0,7.6,8,5.5,4,44
+EST311,2026-07-03,ingenieria de sistemas,9,presencial,si,12,5.8,6,3.1,4,67
+EST312,2026-07-01,economia,9,virtual,no,0,8.3,2,2.8,4,39
+EST313,2026-06-30,ingenieria mecatronica,9,virtual,si,22,7.5,5,6.5,4,57
+EST314,2026-06-28,contaduria publica,9,presencial,no,0,7.0,1,5.8,2,44
+EST315,2026-07-01,administracion de empresas,9,presencial,no,0,7.7,4,4.5,4,42
+EST316,2026-06-27,ingenieria industrial,9,virtual,no,0,5.7,2,7.5,3,36
+EST317,2026-06-27,contaduria publica,9,presencial,no,0,7.7,4,5.8,4,60
+EST318,2026-07-03,ingenieria industrial,9,presencial,si,24,7.0,1,3.9,0,50
+EST319,2026-07-03,ingenieria de sistemas,9,presencial,no,0,7.7,4,4.7,5,55
+EST320,2026-06-30,ingenieria ambiental,9,presencial,no,0,8.5,2,4.4,1,60
+EST321,2026-07-01,ingenieria mecatronica,9,presencial,no,0,7.4,3,2.5,4,42
+EST322,2026-07-03,ingenieria civil,9,presencial,si,11,6.1,0,2.8,0,58
+EST323,2026-06-27,ingenieria ambiental,9,virtual,si,21,5.9,3,4.3,4,59
+EST324,2026-07-02,ingenieria civil,9,virtual,si,30,6.5,1,6.8,0,66
+EST325,2026-07-04,ingenieria industrial,9,presencial,si,13,6.9,2,2.7,2,62
+EST326,2026-06-27,ingenieria civil,9,virtual,si,26,5.8,6,5.3,2,67
+EST327,2026-06-27,ingenieria mecatronica,9,presencial,si,18,5.0,2,7.4,3,51
+EST328,2026-07-02,ingenieria mecatronica,9,virtual,si,37,7.4,4,1.1,3,60
+EST329,2026-07-01,administracion de empresas,9,presencial,no,0,6.9,3,2.2,0,47
+EST330,2026-07-03,derecho,9,presencial,no,0,8.4,3,5.9,1,39
+EST331,2026-06-30,ingenieria de sistemas,9,virtual,no,0,4.9,8,0.0,3,40
+EST332,2026-06-30,administracion de empresas,9,presencial,no,0,6.8,2,4.1,3,47
+EST333,2026-06-30,ingenieria de sistemas,9,virtual,no,0,7.6,4,1.5,1,26
+EST334,2026-06-27,contaduria publica,9,presencial,si,22,6.2,1,4.6,2,43
+EST335,2026-06-30,ingenieria industrial,9,virtual,no,0,7.9,1,5.6,2,44
+EST336,2026-07-03,ingenieria industrial,9,virtual,si,14,7.4,4,5.3,4,47
+EST337,2026-06-29,ingenieria ambiental,9,presencial,si,37,6.8,4,4.7,4,49
+EST338,2026-06-30,ingenieria mecatronica,9,presencial,si,15,5.1,0,3.6,3,68
+EST339,2026-06-28,ingenieria electronica,9,presencial,no,0,7.7,6,7.1,3,39
+EST340,2026-07-01,ingenieria electronica,9,presencial,no,0,7.6,9,5.1,3,39
+EST341,2026-06-27,ingenieria mecatronica,9,presencial,no,0,7.3,2,0.9,5,44
+EST342,2026-06-27,ingenieria civil,9,virtual,si,37,5.0,2,6.8,2,66
+EST343,2026-06-29,ingenieria civil,9,presencial,no,0,8.5,4,6.5,3,39
+EST344,2026-07-01,ingenieria civil,9,presencial,si,14,7.4,2,3.6,1,55
+EST345,2026-06-28,derecho,9,presencial,si,39,5.9,2,1.8,1,52
+EST346,2026-06-27,economia,9,virtual,no,0,6.6,1,3.9,4,47
+EST347,2026-06-27,administracion de empresas,9,virtual,si,26,6.0,4,5.0,3,57
+EST348,2026-06-27,ingenieria civil,9,virtual,no,0,8.3,2,3.1,5,26
+EST349,2026-06-30,economia,9,virtual,si,11,6.6,0,4.0,4,42
+EST350,2026-06-30,ingenieria de sistemas,9,presencial,no,0,8.0,1,7.9,4,52
+EST351,2026-06-28,contaduria publica,9,presencial,no,0,7.7,2,3.6,5,39
+EST352,2026-07-02,administracion de empresas,9,presencial,no,0,6.6,3,6.1,4,52
+EST353,2026-06-28,economia,9,presencial,si,36,6.6,2,2.8,2,49
+EST354,2026-07-02,contaduria publica,9,virtual,si,35,7.0,3,4.9,3,57
+EST355,2026-07-03,administracion de empresas,9,presencial,si,25,6.6,5,5.4,6,60
+EST356,2026-06-29,derecho,9,virtual,si,22,5.7,4,7.1,2,52
+EST357,2026-07-03,ingenieria industrial,9,presencial,no,0,8.2,4,1.0,2,26
+EST358,2026-06-28,ingenieria industrial,9,presencial,si,15,6.0,1,1.4,4,54
+EST359,2026-07-03,ingenieria mecatronica,9,presencial,si,13,4.8,2,6.3,3,69
+EST360,2026-06-30,ingenieria ambiental,9,presencial,no,0,6.6,3,3.8,3,44
+EST361,2026-06-28,economia,9,presencial,si,36,6.0,3,3.6,1,44
+EST362,2026-06-28,economia,9,presencial,no,0,7.3,1,3.9,2,60
+EST363,2026-07-02,ingenieria electronica,9,presencial,si,22,5.8,2,3.6,4,67
+EST364,2026-06-28,ingenieria electronica,9,presencial,no,0,8.5,2,3.0,2,29
+EST365,2026-06-29,administracion de empresas,9,presencial,si,34,5.3,1,5.7,0,58
+EST366,2026-06-27,ingenieria mecatronica,9,presencial,si,36,7.1,2,6.7,2,52
+EST367,2026-06-29,ingenieria civil,9,virtual,si,23,7.7,4,3.3,1,47
+EST368,2026-06-30,contaduria publica,9,presencial,no,0,6.1,1,3.4,2,43
+EST369,2026-06-28,derecho,9,presencial,no,0,7.5,2,2.7,3,42
+EST370,2026-06-29,ingenieria mecatronica,9,virtual,no,0,7.3,5,6.5,3,44
+EST371,2026-06-30,ingenieria de sistemas,9,virtual,no,0,4.8,0,3.7,4,30
+EST372,2026-07-02,administracion de empresas,9,virtual,no,0,7.8,2,3.7,2,52
+EST373,2026-07-03,ingenieria de sistemas,9,presencial,no,0,6.4,0,6.8,1,43
+EST374,2026-06-28,ingenieria mecatronica,9,virtual,no,0,7.0,3,7.6,4,57
+EST375,2026-06-29,economia,9,presencial,no,0,8.5,0,4.1,4,18
+EST376,2026-06-27,ingenieria civil,9,presencial,no,0,7.4,7,2.2,0,36
+EST377,2026-06-30,ingenieria industrial,9,virtual,no,0,8.2,4,6.3,4,55
+EST378,2026-07-03,ingenieria electronica,9,presencial,si,38,8.0,3,6.7,2,39
+EST379,2026-06-29,administracion de empresas,9,presencial,no,0,7.2,5,5.0,3,39
+EST380,2026-07-01,contaduria publica,9,presencial,no,0,6.8,1,8.7,4,41
+EST381,2026-06-29,ingenieria industrial,9,presencial,si,20,7.1,3,0.3,2,34
+EST382,2026-06-29,ingenieria civil,9,presencial,no,0,5.6,1,1.3,4,36
+EST383,2026-06-29,administracion de empresas,9,presencial,si,25,7.1,4,7.8,6,49
+EST384,2026-06-29,administracion de empresas,9,presencial,no,0,7.5,3,3.8,3,42
